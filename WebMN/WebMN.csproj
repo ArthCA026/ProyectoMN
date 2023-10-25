@@ -1585,8 +1585,6 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Login\About.cshtml" />
-    <Content Include="Views\Login\Contact.cshtml" />
     <Content Include="Views\Login\Index.cshtml" />
     <Content Include="template\css\maps\vertical-layout-light\style.css.map" />
     <Content Include="template\vendors\feather\fonts\feather-webfont.eot" />
@@ -1622,6 +1620,8 @@
     <Content Include="template\vendors\tinymce\skins\ui\oxide\fonts\tinymce-mobile.woff" />
     <Content Include="Views\Shared\_Layout_Login.cshtml" />
     <Content Include="Views\Login\IniciarSesion.cshtml" />
+    <Content Include="Views\Login\RegistrarCuenta.cshtml" />
+    <Content Include="Views\Login\RecuperarCuenta.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

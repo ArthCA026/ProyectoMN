@@ -21,5 +21,15 @@ namespace WebMN.Controllers
             return View();
         }
 
+        public ActionResult RegistrarCuenta()
+        {
+            return View();
+        }
+
+        public ActionResult RecuperarCuenta()
+        {
+            return View();
+        }
+
     }
 }
